@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on 3D Web 
 - 🤔 I’m looking for help with React Three Fiber  
 - 💬 Ask me about Game  
-- 📫 How to reach me: zzou2000@gmail.com 
+- 📫 How to reach me: zzou2000@gmail.comx
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: Luv making music too 
 
@@ -24,5 +24,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jkeroromk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jkeroromk&theme=dark&show_icons=true card_width=fullwidth)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jkeroromk&theme=dark&show_icons=true&card_width=1000px)
 
