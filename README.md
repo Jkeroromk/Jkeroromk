@@ -1,18 +1,14 @@
 
 ![3D Web Developer ](https://github.com/Jkeroromk/Jkeroromk/blob/main/house-stark-banner-minimalist-black-x4smirsgbj27we6l.jpg)
 
-<div align="center">
-<span style="font-size: 36px;">Hi there 👋, my name is Jason</span>
-  <br>
-<span style="font-size: 20px;">3D Web Developer</span>
-</div>
+### Hi there 👋, my name is Jason
+3D Web Developer
 
-<div style="display:flex justify-content:center; Align-item:center gap: 10px; flex-wrap: wrap;">
-<span style="font-size: 36px;">Skill and Experience</span>
+## Skill and Experience
 * ⚛ React
 * 📱 React Native
 * 💻 HTML, CSS, JS
-</div>
+
 
 ## Fun Fact About me
 - 🔭 I’m currently working on 3D Blender Room Modeling 
