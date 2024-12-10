@@ -9,6 +9,7 @@
 * 📱 React Native
 * 💻 HTML, CSS, JS
 
+## Fun Fact About me
 - 🔭 I’m currently working on 3D Blender Room Modeling 
 - 🌱 I’m currently learning Threejs 
 - 👯 I’m looking to collaborate on 3D Web 
