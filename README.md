@@ -1,4 +1,3 @@
-(https://github.com/Jkeroromk/Jkeroromk/blob/main/house-stark-banner-minimalist-black-x4smirsgbj27we6l.jpg)
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zexin Zou
 =================================================================================================================================
 
