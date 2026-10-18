@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:64748b&height=200&section=header&text=Jkeroro&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Zexin%20Zou%20%C2%B7%20Developer%20in%20Maryland&descSize=16&descAlignY=58" width="100%" alt="Jkeroro banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:64748b&height=200&section=header&text=Jkeroro&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=Zexin%20Zou&descSize=16&descAlignY=58" width="100%" alt="Jkeroro banner" />
 </p>
 
 <p align="center">
@@ -12,20 +12,71 @@
 
 I build web apps and desktop tools — mostly Next.js and TypeScript, with Three.js when a page deserves some depth, and Rust + Tauri when it needs to live on the desktop.
 
+- 🔐 Studying Information Assurance & Cybersecurity
 - 🌍 Based in Maryland, US
 - 🖥️ Portfolio: [jkeroro.com](https://jkeroro.com)
 - 🎮 Building tools for the games I play
 - 🎧 Making music when I'm not coding
 - ✉️ [zzou2000@gmail.com](mailto:zzou2000@gmail.com)
 
-## What I'm building
+## Featured
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| [**Jkeroro.com**](https://github.com/Jkeroromk/Jkeroro-Personal-Website) | My personal site — 3D intro, works index, music player, admin panel | Next.js · Three.js |
-| [**KillCam**](https://github.com/Jkeroromk/killcam) | Ad-free auto-highlight recorder for PUBG and League — no OBS needed | Rust · Tauri |
-| [**Lock**](https://github.com/Jkeroromk/Lock) | AI calorie & macro tracker for iPhone — app, API and website | React Native · Expo · Prisma |
-| [**Hive**](https://github.com/Jkeroromk/Hive) | A multi-agent AI workspace where different models work as one hive | Next.js · TypeScript · Tauri |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 [KillCam](https://github.com/Jkeroromk/killcam)
+
+**Your best plays, clipped automatically.**
+
+<a href="https://github.com/Jkeroromk/killcam"><img src="https://raw.githubusercontent.com/Jkeroromk/killcam/main/docs/screenshots/library.jpg" alt="KillCam library" width="100%" /></a>
+
+A free, ad-free highlight recorder for **PUBG** and **League of Legends** — no OBS needed.
+
+- ⏺️ Starts and stops with every match
+- 💥 Catches kills, multikills and wins on its own
+- ✂️ Trim, reframe and stitch highlight reels
+- 📊 Per-match timeline and personal stats
+
+<p>
+  <a href="https://github.com/Jkeroromk/killcam/releases/latest"><img src="https://img.shields.io/badge/Download-Windows-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows" /></a>
+  <a href="https://killcam.vercel.app"><img src="https://img.shields.io/badge/Website-64748b?style=for-the-badge&logo=vercel&logoColor=white" alt="KillCam website" /></a>
+</p>
+
+<sub>Rust · Tauri · Windows 10/11</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 [Lock](https://lock.jkeroro.com)
+
+**Snap it. Log it. Lock in.**
+
+<p align="center"><a href="https://lock.jkeroro.com"><img src="https://lock.jkeroro.com/icons/open-lock-512.png" alt="Lock app icon" width="140" /></a></p>
+
+An AI calorie & macro tracker for iPhone — photograph a meal and get the calories, protein, carbs and fat.
+
+- 📸 AI photo scanning, plus barcode & label scanning
+- 📈 Calories, macros, water and steps on one screen
+- ❤️ Apple Health sync
+- 🏆 Friends leaderboard, streaks and challenges
+- 🌏 English, 简体, 繁體, 日本語, 한국어
+
+<p>
+  <a href="https://apps.apple.com/app/id6762630080"><img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store" /></a>
+  <a href="https://lock.jkeroro.com"><img src="https://img.shields.io/badge/Website-64748b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Lock website" /></a>
+</p>
+
+<sub>React Native · Expo · Prisma · PostgreSQL</sub>
+
+</td>
+</tr>
+</table>
+
+### More projects
+
+- [**Jkeroro.com**](https://github.com/Jkeroromk/Jkeroro-Personal-Website) — my personal site, with a 3D intro, works index and music player
+- [**Hive**](https://github.com/Jkeroromk/Hive) — a multi-agent AI workspace where different models work as one hive
 
 ## Tech stack
 
@@ -51,5 +102,5 @@ I build web apps and desktop tools — mostly Next.js and TypeScript, with Three
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64748b,100:000000&height=120&section=footer&reversal=true" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64748b,100:000000&height=160&section=footer&reversal=true&text=Currently%20studying%20Cybersecurity&fontSize=22&fontColor=ffffff&fontAlignY=68" width="100%" alt="" />
 </p>
