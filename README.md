@@ -58,9 +58,25 @@ An AI calorie & macro tracker for iPhone — photograph a meal and get the calor
 
 <sub>React Native · Expo · Prisma · PostgreSQL</sub>
 
-### More
+<br />
 
-- [**Jkeroro.com**](https://github.com/Jkeroromk/Jkeroro-Personal-Website) — my personal site, with a 3D intro, works index and music player
+### 🏠 [Jkeroro.com](https://jkeroro.com)
+
+<a href="https://jkeroro.com"><img src="https://jkeroro.vercel.app/pfp.webp" alt="Jkeroro avatar" width="120" align="right" /></a>
+
+**My cozy corner of the internet.**  
+My personal site and portfolio — where my projects, music and 3D experiments live.
+
+- 🧊 3D intro with my animated avatar
+- 🗂️ Works index with hover previews
+- 🎵 Built-in music player for my own tracks
+- 💬 Comments with emoji reactions and a live visitor map
+- 🛠️ Admin panel to manage projects, music and links
+
+<a href="https://jkeroro.com"><img src="https://img.shields.io/badge/Visit_jkeroro.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit jkeroro.com" /></a>
+<a href="https://github.com/Jkeroromk/Jkeroro-Personal-Website"><img src="https://img.shields.io/badge/Source-64748b?style=for-the-badge&logo=github&logoColor=white" alt="Source code" /></a>
+
+<sub>Next.js · Three.js · GSAP · Supabase · Prisma</sub>
 
 ## Tech stack
 
