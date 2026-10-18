@@ -21,39 +21,30 @@ I build web apps and desktop tools — mostly Next.js and TypeScript, with Three
 
 ## Featured
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 🎯 [KillCam](https://github.com/Jkeroromk/killcam)
 
-**Your best plays, clipped automatically.**
+**Your best plays, clipped automatically.**  
+A free, ad-free highlight recorder for **PUBG** and **League of Legends** — no OBS needed.
 
 <a href="https://github.com/Jkeroromk/killcam"><img src="https://raw.githubusercontent.com/Jkeroromk/killcam/main/docs/screenshots/library.jpg" alt="KillCam library" width="100%" /></a>
-
-A free, ad-free highlight recorder for **PUBG** and **League of Legends** — no OBS needed.
 
 - ⏺️ Starts and stops with every match
 - 💥 Catches kills, multikills and wins on its own
 - ✂️ Trim, reframe and stitch highlight reels
 - 📊 Per-match timeline and personal stats
 
-<p>
-  <a href="https://github.com/Jkeroromk/killcam/releases/latest"><img src="https://img.shields.io/badge/Download-Windows-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows" /></a>
-  <a href="https://killcam.vercel.app"><img src="https://img.shields.io/badge/Website-64748b?style=for-the-badge&logo=vercel&logoColor=white" alt="KillCam website" /></a>
-</p>
+<a href="https://github.com/Jkeroromk/killcam/releases/latest"><img src="https://img.shields.io/badge/Download_for_Windows-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows" /></a>
+<a href="https://killcam.vercel.app"><img src="https://img.shields.io/badge/Website-64748b?style=for-the-badge&logo=vercel&logoColor=white" alt="KillCam website" /></a>
 
 <sub>Rust · Tauri · Windows 10/11</sub>
 
-</td>
-<td width="50%" valign="top">
+<br />
 
 ### 🔒 [Lock](https://lock.jkeroro.com)
 
-**Snap it. Log it. Lock in.**
+<a href="https://lock.jkeroro.com"><img src="https://lock.jkeroro.com/icons/open-lock-512.png" alt="Lock app icon" width="120" align="right" /></a>
 
-<p align="center"><a href="https://lock.jkeroro.com"><img src="https://lock.jkeroro.com/icons/open-lock-512.png" alt="Lock app icon" width="140" /></a></p>
-
+**Snap it. Log it. Lock in.**  
 An AI calorie & macro tracker for iPhone — photograph a meal and get the calories, protein, carbs and fat.
 
 - 📸 AI photo scanning, plus barcode & label scanning
@@ -62,21 +53,14 @@ An AI calorie & macro tracker for iPhone — photograph a meal and get the calor
 - 🏆 Friends leaderboard, streaks and challenges
 - 🌏 English, 简体, 繁體, 日本語, 한국어
 
-<p>
-  <a href="https://apps.apple.com/app/id6762630080"><img src="https://img.shields.io/badge/App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store" /></a>
-  <a href="https://lock.jkeroro.com"><img src="https://img.shields.io/badge/Website-64748b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Lock website" /></a>
-</p>
+<a href="https://apps.apple.com/app/id6762630080"><img src="https://img.shields.io/badge/Download_on_the_App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store" /></a>
+<a href="https://lock.jkeroro.com"><img src="https://img.shields.io/badge/Website-64748b?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Lock website" /></a>
 
 <sub>React Native · Expo · Prisma · PostgreSQL</sub>
 
-</td>
-</tr>
-</table>
-
-### More projects
+### More
 
 - [**Jkeroro.com**](https://github.com/Jkeroromk/Jkeroro-Personal-Website) — my personal site, with a 3D intro, works index and music player
-- [**Hive**](https://github.com/Jkeroromk/Hive) — a multi-agent AI workspace where different models work as one hive
 
 ## Tech stack
 
