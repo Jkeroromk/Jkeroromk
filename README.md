@@ -62,7 +62,7 @@ An AI calorie & macro tracker for iPhone — photograph a meal and get the calor
 
 ### 🏠 [Jkeroro.com](https://jkeroro.com)
 
-<a href="https://jkeroro.com"><img src="https://jkeroro.vercel.app/pfp.webp" alt="Jkeroro avatar" width="120" align="right" /></a>
+<a href="https://jkeroro.com"><img src="assets/jkeroro-avatar.png" alt="Jkeroro avatar" width="130" align="right" /></a>
 
 **My cozy corner of the internet.**  
 My personal site and portfolio — where my projects, music and 3D experiments live.
