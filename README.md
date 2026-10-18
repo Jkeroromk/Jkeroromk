@@ -23,10 +23,10 @@ I build web apps and desktop tools — mostly Next.js and TypeScript, with Three
 
 ### 🎯 [KillCam](https://github.com/Jkeroromk/killcam)
 
+<a href="https://killcam.vercel.app"><img src="assets/killcam-icon.png" alt="KillCam app icon" width="120" align="right" /></a>
+
 **Your best plays, clipped automatically.**  
 A free, ad-free highlight recorder for **PUBG** and **League of Legends** — no OBS needed.
-
-<a href="https://github.com/Jkeroromk/killcam"><img src="https://raw.githubusercontent.com/Jkeroromk/killcam/main/docs/screenshots/library.jpg" alt="KillCam library" width="100%" /></a>
 
 - ⏺️ Starts and stops with every match
 - 💥 Catches kills, multikills and wins on its own
