@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:64748b&height=200&section=header&text=Jkeroro&fontSize=64&fontColor=ffffff&fontAlignY=36&desc=3D%20Web%20Developer%20%C2%B7%20Next.js%20%C2%B7%20Three.js&descSize=16&descAlignY=58&animation=twinkling" width="100%" alt="Jkeroro banner" />
+</p>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zexin Zou
 =================================================================================================================================
 
@@ -37,3 +41,7 @@ src="https://img.shields.io/twitch/status/jkerorozz?logo=twitchsx&style=for-the-
 <a href="http://www.github.com/Jkeroromk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Jkeroromk&stroke=ffffff&background=000000&ring=64748b&fire=64748b&currStreakNum=ffffff&currStreakLabel=64748b&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Jkeroromk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jkeroromk&langs_count=10&title_color=64748b&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:64748b,100:000000&height=120&section=footer&reversal=true" width="100%" alt="" />
+</p>
