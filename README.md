@@ -21,9 +21,9 @@ I build web apps and desktop tools — mostly Next.js and TypeScript, with Three
 
 ## Featured
 
-### 🎯 [KillCam](https://github.com/Jkeroromk/killcam)
+### 🎯 [KeroCam](https://github.com/Jkeroromk/kerocam)
 
-<a href="https://killcam.vercel.app"><img src="assets/killcam-icon.png" alt="KillCam app icon" width="120" align="right" /></a>
+<a href="https://kerocam.vercel.app"><img src="assets/kerocam-icon.png" alt="KeroCam app icon" width="120" align="right" /></a>
 
 **Your best plays, clipped automatically.**  
 A free, ad-free highlight recorder for **PUBG** and **League of Legends** — no OBS needed.
@@ -33,8 +33,8 @@ A free, ad-free highlight recorder for **PUBG** and **League of Legends** — no
 - ✂️ Trim, reframe and stitch highlight reels
 - 📊 Per-match timeline and personal stats
 
-<a href="https://github.com/Jkeroromk/killcam/releases/latest"><img src="https://img.shields.io/badge/Download_for_Windows-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows" /></a>
-<a href="https://killcam.vercel.app"><img src="https://img.shields.io/badge/Website-64748b?style=for-the-badge&logo=vercel&logoColor=white" alt="KillCam website" /></a>
+<a href="https://github.com/Jkeroromk/kerocam/releases/latest"><img src="https://img.shields.io/badge/Download_for_Windows-000000?style=for-the-badge&logo=windows&logoColor=white" alt="Download for Windows" /></a>
+<a href="https://kerocam.vercel.app"><img src="https://img.shields.io/badge/Website-64748b?style=for-the-badge&logo=vercel&logoColor=white" alt="KeroCam website" /></a>
 
 <sub>Rust · Tauri · Windows 10/11</sub>
 
